@@ -1,4 +1,4 @@
-# 🚀 Jira Issue Report Generator
+# 🚀 Jira FAQ & Summary Generator
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)
 ![Ollama](https://img.shields.io/badge/Ollama-Local_AI-brightgreen)
