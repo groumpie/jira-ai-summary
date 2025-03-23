@@ -5,12 +5,12 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 📌 Overview
-The **Jura Issue Report Generator** is a Python-based tool that automates the creation of PDF summary reports for Jura issues. It leverages API integrations to fetch data and uses AI via Ollama (running locally) to analyze and summarize issue details efficiently.
+The **Jira Issue Report Generator** is a Python-based tool that automates the creation of PDF summary reports for Jira issues. It leverages API integrations to fetch data and uses AI via Ollama (running locally) to analyze and summarize issue details efficiently.
 
-🔗 **GitHub Repository**: [Jura AI Summary](https://github.com/groumpie/jira-ai-summary)
+🔗 **GitHub Repository**: [Jira AI Summary](https://github.com/groumpie/jira-ai-summary)
 
 ## ✨ Features
-✅ Fetches Jura issues via API  
+✅ Fetches Jira issues via API  
 ✅ AI-powered summarization of issue details  
 ✅ Generates professional-looking PDF reports  
 ✅ Works locally with **Ollama**, ensuring privacy and speed  
@@ -37,7 +37,7 @@ Before running the project, ensure you have the following installed:
 3. Ensure **Ollama** is running locally.
 
 ## ⚙️ Configuration
-Update the `.env` file with your Jura API credentials and necessary configurations:
+Update the `.env` file with your Jira API credentials and necessary configurations:
 ```env
 JIRA_URL=https://your-jira-instance/api
 JIRA_API_TOKEN=your_api_token_here
