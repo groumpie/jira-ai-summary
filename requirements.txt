@@ -1,0 +1,7 @@
+jira
+pandas
+fpdf
+dotenv
+tqdm
+argparse
+openai==0.28
