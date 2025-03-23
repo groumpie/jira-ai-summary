@@ -70,5 +70,5 @@ This project is licensed under the MIT License.
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📧 Contact
-For questions or suggestions, reach out via GitHub Issues or email **your.email@example.com**.
+For questions or suggestions, reach out via GitHub Issues or email **george@roumpie.com**.
 
